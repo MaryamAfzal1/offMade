@@ -1,6 +1,6 @@
 window.Parse = require('parse');
 
-window.Parse.initialize("gqLpnv38QWkBXn1T4SEIWryP6nn4ZMqePbBLYfci", "ZDWQZuavO8IJEuqMld9DqNi9eSieh8FQnA7jVX1");
+window.Parse.initialize("gqLpnv38QWkBXn1T4SEIWryP6nn4ZMqePbBLYfci", "ZDWQZuavO8IJEuqMld9DqNi9eSieh8FQnA7jVX1X");
 //javascriptKey is required only if you have it on server
 
 window.Parse.serverURL = 'https://parseapi.back4app.com'
